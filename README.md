@@ -1,1 +1,7 @@
 # movie_trailer
+FULL STACK NANO DEGREE PROJECT
+NAME:-A.L.NARENDRA KUMAR
+ROLL NO:-17471A0521
+2nd year 
+cse
+nec college
